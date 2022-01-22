@@ -1,4 +1,4 @@
-# (Oracle OCI)
+# (Oracle OCI - LinuxTips)
 
 This is a Terraform configuration to deploy a Kubernetes cluster on
 [Oracle Cloud Infrastructure][oci]. It creates a few virtual machines
